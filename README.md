@@ -15,6 +15,7 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 **Software Development** → backend services, tooling, and the occasional project that starts as "quick script" and ends up as a full application three days later.
 <br/>
 
+## 🤖 • Technologies & Skills:
 <table width="100%">
 <tr>
 <td valign="top" width="25%">
