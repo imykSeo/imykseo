@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1200&color=785D50&center=false&vCenter=true&width=560&lines=Hey%2C+I+am+Zeyad+aka+Sy4o!;AI+Engineering+Student;Software+Developer" alt="typing header" />
 
-[![Sy4o (Zeyad)](https://img.shields.io/badge/Sy4o_(Zeyad)-785D50?style=flat&logo=github&logoColor=white)](https://github.com/iSy4o) [![Profile Views](https://komarev.com/ghpvc/?username=iSy4o&color=785D50&style=flat-square&label=views)](https://github.com/iSy4o)
+[![ykSeo (Zeyad)](https://img.shields.io/badge/ykSeo_(Zeyad)-785D50?style=flat&logo=github&logoColor=white)](https://github.com/imykseo) [![Profile Views](https://komarev.com/ghpvc/?username=iSy4o&color=785D50&style=flat-square&label=views)](https://github.com/ykseo)
 <br/>
 
 Entry-level AI Engineer and Software Developer focused on building practical projects and learning through hands-on development. I mainly work on Minecraft projects, including plugins and server-side tools, while also exploring AI, automation, and other areas of software development.
@@ -40,12 +40,6 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-### OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 </td>
 </tr>
