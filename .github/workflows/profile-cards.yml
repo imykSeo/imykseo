@@ -1,0 +1,25 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: imykSeo
+          cards: contributions,overview,languages
+          output-dir: assets
+          themes: light,dark
+          commit: true
+          commit-message: Update profile cards
